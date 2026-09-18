@@ -5,7 +5,7 @@ from panels import header_construct
 
 root_layout = Layout()
 root_layout.split_column(
-    Layout(name="Upper", ratio=16),
+    Layout(name="Upper", ratio=12),
     Layout(name="Lower")
 )
 root_layout["Upper"].split_column(
