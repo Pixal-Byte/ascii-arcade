@@ -1,10 +1,9 @@
 import time
 from layout_constructor import root_layout
 from rich.live import Live
-from rich.console import Console
+from const import cnsl
 
 def main():
-    cnsl = Console(color_system="256", force_terminal=True)
     with Live(root_layout, console=cnsl, screen=True, refresh_per_second=24) as live:
         loop_ctrl: bool = True
         while loop_ctrl:
