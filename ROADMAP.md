@@ -6,7 +6,7 @@ Tracking file for `terminal-funsies`. Check items off as you go — GitHub and m
 
 - [x] Resolve circular import with `constants.py`
 - [x] `header_construct()` — 3-column `Table.grid` (money / spacer / title)
-- [ ] `footer_construct()` — 3-column `Table.grid` (game status / message log / action prompts)
+- [x] `footer_construct()` — 3-column `Table.grid` (game status / message log / action prompts)
 - [ ] Sanity-check message log column width (may need `ratio=2` if multi-line log feels cramped)
 - [ ] Card panel construction (single card → `Panel`, ready to slot into a hand row)
 - [ ] Dealer row layout (`Table.grid`, dynamic column count for however many cards are dealt)
