@@ -1,6 +1,6 @@
 # ASCII Arcade — Roadmap
 
-Tracking file for `terminal-funsies`. Check items off as you go — GitHub and most editor Markdown previews (VS Code included) render these as clickable checkboxes.
+Tracking file for `ASCII Arcade`.
 
 ## UI / Layout
 
