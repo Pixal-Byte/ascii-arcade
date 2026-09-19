@@ -27,7 +27,6 @@ Tracking file for `terminal-funsies`. Check items off as you go — GitHub and m
 - [ ] Build a keyboard/input manager module
 - [ ] Map core actions: Hit / Stand
 - [ ] Quit flow: dedicated key combo (e.g. Ctrl+Q) → confirmation prompt ("Quit? Y/N") before actually exiting
-- [ ] (Later / optional) Revisit `keyboard` specifically for global custom hotkeys, if ever needed outside the terminal's own focus
 
 ## Game structure / backend
 
